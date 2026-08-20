@@ -1,6 +1,6 @@
 The NAV Desk
 
-Live site: https://chaitanyadivshikar.github.io/navdesk/
+Live site: https://chaitanyadivshikar.github.io/navdesk/index.html)
 
 An interactive daily NAV engine that rebuilds a fund's official price the way a fund administrator's system does. Single self-contained HTML page — no frameworks, no build step.
 
